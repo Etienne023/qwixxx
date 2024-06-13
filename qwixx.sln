@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qwixx", "qwixx\qwixx.csproj", "{B564C24A-57CD-40B0-AAF8-F567A43ACBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B564C24A-57CD-40B0-AAF8-F567A43ACBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B564C24A-57CD-40B0-AAF8-F567A43ACBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B564C24A-57CD-40B0-AAF8-F567A43ACBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B564C24A-57CD-40B0-AAF8-F567A43ACBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B657E49F-7A8F-4CC6-8FBE-6FF93ADFAB6B}
+	EndGlobalSection
+EndGlobal
